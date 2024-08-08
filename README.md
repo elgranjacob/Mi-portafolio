@@ -4,7 +4,7 @@
 Proyecto realizado durante el bootcamp de Tecnolochicas PRO, es adaptable a distintos dispositivos o tamaños de pantalla.
 El objetivo de esta pagina web es mostratrar mi portafolio de proyectos como desarrolladora web.
 
-Podras encontrarlo aquí [Portafolio de mi proyecto]()
+Podras encontrarlo aquí [Portafolio de mi proyecto](https://github.com/elgranjacob)
 
 ### Tecnologías
 
