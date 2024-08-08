@@ -1,0 +1,39 @@
+*{
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.bi {
+    margin: 0;
+    padding: 0;
+}
+
+.contain{
+    background-color: rgb(198, 143, 248);
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link{
+    color: white;
+}
+
+.bi{
+    color: blueviolet;
+    font-size: 1.5em;
+}
+.img-proyecto1{
+    background-image: url('/asset/Captura\ de\ pantalla\ 2024-07-29\ 191457.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.btn{
+    background-color: blueviolet;
+}
+
+footer ul{ background-color: rgb(198, 143, 248);}
+
+#app{
+    color: rgb(42, 8, 74);
+}
